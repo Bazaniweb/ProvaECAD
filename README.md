@@ -2,13 +2,13 @@
 
 Tecnologias utilizadas:
 
-Servidor GlassFish 4.1.1
-JavaEE 7
-JSF 2.2
-MySQL 5.6
-Workbench 6.2
-JPA 2.1
-EclipseLink
+Servidor GlassFish 4.1.1,
+JavaEE 7,
+JSF 2.2,
+MySQL 5.6,
+Workbench 6.2,
+JPA 2.1,
+EclipseLink,
 EJB 3.1
 
 
